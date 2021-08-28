@@ -482,6 +482,13 @@ legend + * {
   -webkit-appearance: button;
 }
 
+.carousel-item{
+    max-height: 300px;
+} 
+.carousel-item img{
+    max-height: 300px;
+}
+
 output {
   display: inline-block;
 }
