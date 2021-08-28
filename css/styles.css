@@ -79,6 +79,19 @@
   }
 }
 
+@font-face {
+    font-family: 'Scriptina';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Scriptina'), url('https://fonts.cdnfonts.com/s/389/scriptina.woff') format('woff');
+}
+@font-face {
+    font-family: 'Scriptina - Alternates';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Scriptina - Alternates'), url('https://fonts.cdnfonts.com/s/389/scriptina_alt.woff') format('woff');
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
